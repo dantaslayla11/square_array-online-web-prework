@@ -3,5 +3,5 @@ def square_array(array)
 end
 
 def square_array(element)
-  array.square_array
+  esquare_array(numbers)
 end
